@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585606869895",
+    "firebase_url": "https://fir-phoneverification-c8469.firebaseio.com",
+    "project_id": "fir-phoneverification-c8469",
+    "storage_bucket": "fir-phoneverification-c8469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585606869895:android:423e5df5b3caff9b",
+        "android_client_info": {
+          "package_name": "com.androidbie.firebasephonenumberverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585606869895-78sgc22borlhlfuvqql5r9k3prrkesfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbie.firebasephonenumberverification",
+            "certificate_hash": "913f5f3d8e2f85d33ea4ae6abca60e9bc2bab407"
+          }
+        },
+        {
+          "client_id": "585606869895-5k783oahnroq32cpd04g6hdcmc0qa1vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wIBm45VanMkt4Pip-b_R48skNtRlA-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585606869895-5k783oahnroq32cpd04g6hdcmc0qa1vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

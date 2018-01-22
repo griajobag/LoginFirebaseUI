@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase UI</string>
+    <string name="please_login_before_verification_your_phone">Please login before input your data</string>
+</resources>
